@@ -1,0 +1,29 @@
+#container{
+    width: 500px;
+    height: 750px;
+    background-color: rgb(124, 180, 161);
+    position: relative;
+    margin: auto auto;
+}
+
+h1{
+    position: absolute;
+    background-color: rgb(179, 233, 221);
+    margin-left: 422px;
+    padding: 12px;
+    font-size: 1.4rem;
+    font-family: 'Courier New';
+}
+
+span{
+    font-weight: 500;
+    text-align: center;
+    width: 100%;
+    border-bottom: solid 1px black;
+    border-top: solid 1px black;
+    font-family: 'Courier New';
+    position: absolute;
+    margin-top: 70px;
+    color:  rgb(124, 180, 161);
+    background-color: white;
+}
